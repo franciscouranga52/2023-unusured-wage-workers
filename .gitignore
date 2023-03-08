@@ -2,6 +2,10 @@
 __pycache__/
 *.py[cod]
 *$py.class
+## data files to ignore 
+*.csv 
+*.xlsx 
+*.zip
 
 # C extensions
 *.so
